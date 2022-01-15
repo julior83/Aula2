@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8BYB77lSTNGaFAPbiacX3srR34KR0AO6Tlw86RTdEVj7z2kEEA8959tJ7ztEKxORgmV40nmJYc/E3zpDlAVng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apex05\\source\\repos\\aula2\\aula2\\aula2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
