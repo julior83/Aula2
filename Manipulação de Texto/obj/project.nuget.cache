@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "A52V5bttiPNfk6dxlka0B+/Ze0PzHpVG1p5fN+KRN3LcW5Duddm1B9lVa7W1EDBNZ1+XpmSWgV0TYdxKNBQ6Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apex05\\source\\repos\\aula2\\Manipulação de Texto\\Manipulação de Texto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

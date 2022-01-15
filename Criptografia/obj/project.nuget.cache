@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TFVPcpQZjI2hd9jBorU8BvOw/qeggeVAL4bb9Ot42CZsl9WU2x3bQu6mZMT5kS1mV1jn838FE68Kbh3R7m4L5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Apex05\\source\\repos\\aula2\\Criptografia\\Criptografia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Apex05\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

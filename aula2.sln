@@ -3,7 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aula2", "aula2\aula2.csproj", "{1D0492F3-2E63-49CD-AF5C-3EC9997CADAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aula2", "aula2\aula2.csproj", "{1D0492F3-2E63-49CD-AF5C-3EC9997CADAB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criptografia", "Criptografia\Criptografia.csproj", "{CC123998-4A44-4B05-9DDA-68D92ED40335}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Manipulação de Texto", "Manipulação de Texto\Manipulação de Texto.csproj", "{2F1467FA-2863-4E06-9A7D-BE3BFC343759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio idade", "Exercicio idade\Exercicio idade.csproj", "{D1445D50-39DB-4A1B-88A9-421E7CF6776F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lacos repeticao", "lacos repeticao\lacos repeticao.csproj", "{EDA57C19-1D01-467E-9168-C911F1AEB749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +23,22 @@ Global
 		{1D0492F3-2E63-49CD-AF5C-3EC9997CADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D0492F3-2E63-49CD-AF5C-3EC9997CADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D0492F3-2E63-49CD-AF5C-3EC9997CADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC123998-4A44-4B05-9DDA-68D92ED40335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC123998-4A44-4B05-9DDA-68D92ED40335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC123998-4A44-4B05-9DDA-68D92ED40335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC123998-4A44-4B05-9DDA-68D92ED40335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F1467FA-2863-4E06-9A7D-BE3BFC343759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1467FA-2863-4E06-9A7D-BE3BFC343759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1467FA-2863-4E06-9A7D-BE3BFC343759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1467FA-2863-4E06-9A7D-BE3BFC343759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1445D50-39DB-4A1B-88A9-421E7CF6776F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1445D50-39DB-4A1B-88A9-421E7CF6776F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1445D50-39DB-4A1B-88A9-421E7CF6776F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1445D50-39DB-4A1B-88A9-421E7CF6776F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDA57C19-1D01-467E-9168-C911F1AEB749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA57C19-1D01-467E-9168-C911F1AEB749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA57C19-1D01-467E-9168-C911F1AEB749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA57C19-1D01-467E-9168-C911F1AEB749}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

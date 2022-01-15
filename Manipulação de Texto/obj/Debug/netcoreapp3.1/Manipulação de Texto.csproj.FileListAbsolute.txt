@@ -1,0 +1,13 @@
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.exe
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.deps.json
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.runtimeconfig.json
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.runtimeconfig.dev.json
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.dll
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\bin\Debug\netcoreapp3.1\Manipulação de Texto.pdb
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.csproj.AssemblyReference.cache
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.AssemblyInfoInputs.cache
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.AssemblyInfo.cs
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.csproj.CoreCompileInputs.cache
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.dll
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.pdb
+C:\Users\Apex05\source\repos\aula2\Manipulação de Texto\obj\Debug\netcoreapp3.1\Manipulação de Texto.genruntimeconfig.cache

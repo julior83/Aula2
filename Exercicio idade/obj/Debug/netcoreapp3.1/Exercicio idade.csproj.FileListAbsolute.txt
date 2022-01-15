@@ -1,0 +1,13 @@
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.csproj.AssemblyReference.cache
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.AssemblyInfoInputs.cache
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.AssemblyInfo.cs
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.csproj.CoreCompileInputs.cache
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.exe
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.deps.json
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.runtimeconfig.json
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.runtimeconfig.dev.json
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.dll
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\bin\Debug\netcoreapp3.1\Exercicio idade.pdb
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.dll
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.pdb
+C:\Users\Apex05\source\repos\Aula2\Exercicio idade\obj\Debug\netcoreapp3.1\Exercicio idade.genruntimeconfig.cache

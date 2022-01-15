@@ -1,0 +1,13 @@
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.AssemblyReference.cache
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfoInputs.cache
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.AssemblyInfo.cs
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.exe
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.deps.json
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.json
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.runtimeconfig.dev.json
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\Apex05\source\repos\Aula2\Criptografia\bin\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.dll
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.pdb
+C:\Users\Apex05\source\repos\Aula2\Criptografia\obj\Debug\netcoreapp3.1\Criptografia.genruntimeconfig.cache
